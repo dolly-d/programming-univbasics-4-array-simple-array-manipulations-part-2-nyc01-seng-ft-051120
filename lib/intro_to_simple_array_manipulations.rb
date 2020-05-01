@@ -13,6 +13,6 @@ def using_uniq(array)
 end
 
 def using_flatten(array)
-  array.flattern
+  array.flatten()
   return array
 end
